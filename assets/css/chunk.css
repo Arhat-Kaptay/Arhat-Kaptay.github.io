@@ -6831,3 +6831,8 @@ button.button___EtYyg {
     padding-bottom: 0;
   }
 }
+@media(max-width: 370px) {
+  .title___3ftGr {
+    font-size: 4rem;
+  }
+}
