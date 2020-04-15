@@ -430,7 +430,11 @@ padding: 2px 0;}
   .title-f {
     display: block; 
     margin-top: 40px;
-}
+  }
+  .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
+    right: 50px;
+    bottom: 18px;
+  }
 }
 @media(max-width: 500px) {
   .signUpButton___3RUyy{
