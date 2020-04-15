@@ -268,15 +268,7 @@ width: unset;
       right: 40px;
       margin-right: 0;
   }
-  .appsLinks___367vX {
-    margin: 10px auto;
-  }
-  .userJoinFormControls___Ogr_w {
-    width: auto;
-  }
-  .button___317aI.disabledButton___2y2Ve {
-    margin: 0 auto;
-  }
+
   .control-mobile a{
     height: 35px;
   }
@@ -442,4 +434,16 @@ padding: 2px 0;}
 }
 
 
+}
+
+@media(max-width: 480px) {
+  .appsLinks___367vX {
+    margin: 10px auto;
+  }
+  .userJoinFormControls___Ogr_w {
+    width: auto;
+  }
+  .button___317aI.disabledButton___2y2Ve {
+    margin: 0 auto;
+  }
 }
