@@ -423,6 +423,15 @@ padding: 2px 0;}
     padding-bottom: 80px;
   }
 }
+@media(max-width: 740px) {
+  .sampleCanvas___1rXmc {
+    margin-top: -20%;
+  }
+  .title-f {
+    display: block; 
+    margin-top: 40px;
+}
+}
 @media(max-width: 500px) {
   .signUpButton___3RUyy{
     margin-right: 0;
