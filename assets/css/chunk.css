@@ -6831,6 +6831,13 @@ button.button___EtYyg {
     padding-bottom: 0;
   }
 }
+@media(max-width: 500px) {
+  .sampleCanvas___1rXmc {
+    margin-top: 0;
+    height: 40rem;
+    width: 26rem;
+  }
+}
 @media(max-width: 370px) {
   .title___3ftGr {
     font-size: 4rem;
