@@ -407,6 +407,19 @@ padding: 2px 0;}
     margin-right: 150px;
   }
 }
+
+@media(max-width: 824px) {
+  .sampleCanvas___1rXmc {
+    height: 50rem;
+    width: 32rem;
+    margin-top: -60%;
+  }
+  .homepageSection___KmXBl {
+    padding-bottom: 7rem;
+  }
+}
+
+
 @media(max-width: 769px) {
   .sampleCanvas___1rXmc {
     height: 44rem;
