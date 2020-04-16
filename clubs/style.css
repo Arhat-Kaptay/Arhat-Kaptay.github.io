@@ -149,6 +149,10 @@
   .almejaApp___1AHCL {
     margin-bottom: -28px;
   }
+  .apps___1HuOq {
+    padding: 0;
+    width: 180px;
+  }
 }
 @media(max-width: 740px) {
   .sampleCanvas___1rXmc {
@@ -228,6 +232,12 @@
   }
   .navigationItem___2fRbs:last-child .control___26dei {
     color: #000;
+  }
+  .samplesGridItem___23DZ6.spec-landing-get-on-board-sample-get-presentation {
+    margin: 10px auto;
+  }
+  .support___2KWZQ {
+    width: 100%;
   }
 }
 @media(max-width: 500px) {
