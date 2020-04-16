@@ -264,6 +264,16 @@
     height: 45px;
   }
 }
+@media(max-width: 824px) {
+  .sampleCanvas___1rXmc {
+    height: 50rem;
+    width: 32rem;
+    margin-top: -60%;
+  }
+  .homepageSection___KmXBl {
+    padding-bottom: 7rem;
+  }
+}
 @media(max-width: 500px) {
   .appsLinks___367vX.control-mobile {
     top: 6px;
