@@ -307,6 +307,11 @@
   .pageSectionTitle___3BR-9 {
     margin: 5rem auto;
   }
+  .app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
+    width: 110px;
+    padding: 10px;
+    font-size: 12px;
+  }
 }
 @media (max-width: 360px) {
   .spec-landing-navigation-sign-in, .w-150 {
