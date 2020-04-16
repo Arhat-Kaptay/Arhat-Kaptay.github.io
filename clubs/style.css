@@ -246,6 +246,23 @@
   .displayOnSmallMediaFormat___3OwBw {
     margin: 2rem auto;
   }
+  .appHeader___2GdyR.isExpanded___qu6SJ .navigation___RqU5O {
+    padding-bottom: 50px;
+    flex-direction: inherit;
+  }
+  li.navigationItem___2fRbs.spec-landing-navigation-sign-in {
+    position: absolute;
+    bottom: 0;
+  }
+  .apps___1HuOq {
+    position: absolute;
+    bottom: -4px;
+    left: 140px;
+
+  }
+  .app___1zJo4 {
+    height: 45px;
+  }
 }
 @media(max-width: 500px) {
   .appHeaderSections___1AuJk {
