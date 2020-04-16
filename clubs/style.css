@@ -201,7 +201,7 @@
   .appsLinks___367vX.control-mobile {
     display: block;
     position: fixed;
-    top: 6px;
+    top: 0px;
     right: 50px;
   }
   .app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
@@ -265,6 +265,9 @@
   }
 }
 @media(max-width: 500px) {
+  .appsLinks___367vX.control-mobile {
+    top: 6px;
+  }
   .appHeaderSections___1AuJk {
     padding: 3rem 2rem;
   }

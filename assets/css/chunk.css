@@ -5178,12 +5178,14 @@ button.button___EtYyg {
     height: 66rem;
     transform: none
   }
+  
 }
 
 @media (min-width:840px) {
   .profileValueInner___10F0U {
     height: 72rem
   }
+
 }
 
 @media (min-width:960px) {
@@ -6830,8 +6832,20 @@ button.button___EtYyg {
   .homepageSection___KmXBl {
     padding-bottom: 0;
   }
+  .profileValueInnerBackground___39eHd {
+    bottom: 5rem;
+  }
 }
-
+@media(max-width: 840px) {
+  .profileValueInnerBackground___39eHd {
+    bottom: 0rem;
+  }
+}
+@media(max-width: 500px) {
+  .profileValueInnerBackground___39eHd {
+    bottom: 0rem;
+  }
+}
 @media(max-width: 370px) {
   .title___3ftGr {
     font-size: 4rem;

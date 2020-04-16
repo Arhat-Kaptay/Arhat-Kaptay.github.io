@@ -478,7 +478,7 @@ padding: 2px 0;}
   }
   .appsLinks___367vX.control-mobile {
     position: absolute;
-    top: 6px;
+    top: 0px;
     right: 110px;
     display: block;
   }
@@ -487,7 +487,9 @@ padding: 2px 0;}
   }
 }
 @media(max-width: 500px) {
-
+  .appsLinks___367vX.control-mobile {
+    top: 6px;
+  }
   .signUpButton___3RUyy{
     margin-right: 0;
   }
@@ -549,6 +551,7 @@ padding: 2px 0;}
     font-size: 12px;
     width: 100px;
   }
+  
 }
 @media (max-width: 320px) {
   ./*control-mobile a {
