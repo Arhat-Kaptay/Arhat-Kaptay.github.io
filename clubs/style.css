@@ -201,7 +201,7 @@
   .appsLinks___367vX.control-mobile {
     display: block;
     position: fixed;
-    top: 0;
+    top: 6px;
     right: 50px;
   }
   .app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
@@ -340,8 +340,11 @@
   }
 }
 @media (max-width: 320px) {
-  a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
+  /*a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
     display: none;
+  }*/
+  .appsLinks___367vX.control-mobile {
+    right: 40px;
   }
 }
 @media(max-width: 480px) {
