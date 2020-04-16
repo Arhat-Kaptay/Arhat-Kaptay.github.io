@@ -131,7 +131,7 @@
     margin-right: 150px;
   }
   .navigationItemIcon___1CPuc {
-    display: block;
+    display: none;
   }
 }
 @media(max-width: 769px) {
@@ -235,6 +235,7 @@
   }
   .navigationItem___2fRbs:last-child .control___26dei {
     color: #000;
+    font-size: 2rem;
   }
   .samplesGridItem___23DZ6.spec-landing-get-on-board-sample-get-presentation {
     margin: 10px auto;
@@ -541,8 +542,8 @@ width: unset;
     left: 175px!important;
   }
   .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
-    bottom: -105px;
-    right: 15px;
+    bottom: -28px;
+    right: 14px;
     z-index: 99;
 }
 }

@@ -474,9 +474,7 @@ padding: 2px 0;}
     width: 26rem;
   }
   .apps___1HuOq {
-    margin-top: 13px;
-    margin-bottom: 0;
-    margin-left: 10px;
+    margin: 0;
   }
   .samplesGridItem___23DZ6 {
     margin: 0;
@@ -512,6 +510,9 @@ padding: 2px 0;}
   .userJoinForm___2TGE2 {
     margin: 1rem 0;
   }
+  .control___26dei.isHighlighted___2n3nd {
+    font-size: 2rem;
+  }
 }
 @media (max-width: 360px) {
   .spec-landing-navigation-sign-in, .w-150 {
@@ -520,6 +521,11 @@ padding: 2px 0;}
   a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
     font-size: 12px;
     width: 100px;
+  }
+}
+@media (max-width: 320px) {
+  .control-mobile a {
+    display: none;
   }
 }
 
