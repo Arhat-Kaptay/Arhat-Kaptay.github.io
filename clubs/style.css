@@ -130,6 +130,9 @@
   .appsLinks___367vX {
     margin-right: 150px;
   }
+  .navigationItemIcon___1CPuc {
+    display: block;
+  }
 }
 @media(max-width: 769px) {
   .sampleCanvas___1rXmc {
@@ -239,6 +242,9 @@
   .support___2KWZQ {
     width: 100%;
   }
+  .displayOnSmallMediaFormat___3OwBw {
+    margin: 2rem auto;
+  }
 }
 @media(max-width: 500px) {
   .appHeaderSections___1AuJk {
@@ -310,7 +316,11 @@
     width: 100px;
   }
 }
-
+@media (max-width: 320px) {
+  a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
+    display: none;
+  }
+}
 @media(max-width: 480px) {
   .appsLinks___367vX {
     margin: 10px auto;
