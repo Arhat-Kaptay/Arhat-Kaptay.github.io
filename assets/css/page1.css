@@ -456,6 +456,13 @@ padding: 2px 0;}
   .button___317aI {
     margin-left: 0;
   }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    margin-bottom: -50px;
+    padding-top: 120px;
+  }
+  .userJoinForm___2TGE2 {
+    margin: 40px;
+  }
 }
 @media(max-width: 500px) {
   .signUpButton___3RUyy{
@@ -490,6 +497,20 @@ padding: 2px 0;}
   }
   .pageSection___DO-C-.homepageSection___KmXBl.isRevealed___39VSj {
     padding-bottom: 30px;
+  }
+  .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
+    right: 14px;
+    bottom: -40px;
+  }
+  .feedbacks___1kXm0 {
+    height: 40rem;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    margin-bottom: -10px;
+    padding-top: 40px;
+  }
+  .userJoinForm___2TGE2 {
+    margin: 1rem 0;
   }
 }
 @media (max-width: 360px) {
