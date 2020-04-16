@@ -98,7 +98,7 @@
     margin-right: 0;
   }
   .sampleCanvas___1rXmc {
-    height: 40rem;
+    height: 60rem;
   }
   .samplesGridItem___23DZ6 {
     width: calc(40% - 2.5rem);
@@ -110,6 +110,9 @@
   .title___vae0_ {
     margin: 0;
   }
+  .appsLinks___367vX {
+    margin-right: 130px;
+  }
 }
 @media (max-width: 1024px) {
   .landingTeaser___jNluX {
@@ -118,10 +121,97 @@
   .buttonsSet___3JySY {
     margin-left: 0!important;
   }
+  .app___1zJo4:not(:last-child) {
+    margin-right: 0;
+  }
+  .w-150 {
+    width: 120px;
+  }
+  .appsLinks___367vX {
+    margin-right: 150px;
+  }
+}
+@media(max-width: 769px) {
+  .sampleCanvas___1rXmc {
+    height: 44rem;
+    width: 30rem;
+  }
+  .sampleCanvas___1rXmc {
+    margin-top: -50%;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP {
+    padding: 30px;
+    margin: 25px auto;
+  }
+  .pageSection___DO-C-.homepageSection___KmXBl.isRevealed___39VSj {
+    padding-bottom: 80px;
+  }
+  .almejaApp___1AHCL {
+    margin-bottom: -28px;
+  }
+}
+@media(max-width: 740px) {
+  .sampleCanvas___1rXmc {
+    margin-top: -20%;
+  }
+  .title-f {
+    display: block; 
+    margin-top: 40px;
+  }
+  .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
+    right: 50px;
+    bottom: 18px;
+  }
+  .apps___1HuOq {
+    display: block;
+  }
+  .appsLinks___367vX {
+    margin: 10px auto;
+  }
+  .userJoinFormControls___Ogr_w {
+    width: auto;
+  } 
+  .feedbacks___1kXm0 {
+    height: 28rem;
+  }
+  .pageSection___DO-C-.homepageSection___KmXBl.isRevealed___39VSj {
+    padding-bottom: 0;
+  }
+  .button___317aI {
+    margin-left: 0;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    margin-bottom: -50px;
+    padding-top: 120px;
+  }
+  .userJoinForm___2TGE2 {
+    margin: 40px;
+  }
+  .appHeaderSections___1AuJk {
+    padding: 1rem 2rem;
+  }
+  .appsLinks___367vX.control-mobile {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 50px;
+  }
+  .app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
+    width: 100%;
+    padding: 20px;
+  }
 }
 @media(max-width: 500px) {
+  .appHeaderSections___1AuJk {
+    padding: 3rem 2rem;
+  }
   .signUpButton___3RUyy{
     margin-right: 0;
+  }
+  .sampleCanvas___1rXmc {
+    margin-top: 0;
+    height: 40rem;
+    width: 26rem;
   }
   .apps___1HuOq {
     margin-top: 13px;
@@ -141,6 +231,27 @@
   .cases___2gwdt {
     padding: 6rem 0;
   }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP {
+    padding: 10px;
+    margin: 0;
+  }
+  .pageSection___DO-C-.homepageSection___KmXBl.isRevealed___39VSj {
+    padding-bottom: 30px;
+  }
+  .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
+    right: 14px;
+    bottom: -40px;
+  }
+  .feedbacks___1kXm0 {
+    height: 40rem;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    margin-bottom: -10px;
+    padding-top: 40px;
+  }
+  .userJoinForm___2TGE2 {
+    margin: 1rem 0;
+  }
 }
 @media (max-width: 360px) {
   .spec-landing-navigation-sign-in, .w-150 {
@@ -149,6 +260,21 @@
   a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
     font-size: 12px;
     width: 100px;
+  }
+}
+
+@media(max-width: 480px) {
+  .appsLinks___367vX {
+    margin: 10px auto;
+  }
+  .userJoinFormControls___Ogr_w {
+    width: auto;
+  }
+  .button___317aI.disabledButton___2y2Ve {
+    margin: 0 auto;
+  }
+  .appsLinks___367vX.mar {
+    margin: 0;
   }
 }
 @media only screen and (min-width : 1200px) {
