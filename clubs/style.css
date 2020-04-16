@@ -159,8 +159,9 @@
     margin-top: 40px;
   }
   .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
-    right: 50px;
-    bottom: 18px;
+    right: 14px;
+    bottom: -60px;
+    z-index: 100;
   }
   .apps___1HuOq {
     display: block;
@@ -199,6 +200,34 @@
   .app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
     width: 100%;
     padding: 20px;
+  }
+  .app___1zJo4 {
+    background:#23373b;
+    color: #fff;
+  }
+  .spec-landing-navigation-sign-in{
+    background: #23373b;
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 120px;
+    height: 46px;
+    /* background: var(--color-almeja-white); */
+    border-radius: 50px;
+    -webkit-transition: background-color var(--transition-duration-short);
+    -o-transition: background-color var(--transition-duration-short);
+    transition: background-color var(--transition-duration-short);
+    margin-bottom: 5px;
+  }
+  .navigationItem___2fRbs:last-child .control___26dei {
+    color: #000;
   }
 }
 @media(max-width: 500px) {
@@ -251,6 +280,15 @@
   }
   .userJoinForm___2TGE2 {
     margin: 1rem 0;
+  }
+  .title___3ftGr {
+    margin: 0;
+  }
+  .description___X_eXQ {
+    margin: 1rem 0 6rem;
+  }
+  .pageSectionTitle___3BR-9 {
+    margin: 5rem auto;
   }
 }
 @media (max-width: 360px) {
