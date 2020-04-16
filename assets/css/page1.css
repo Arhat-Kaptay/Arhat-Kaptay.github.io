@@ -476,8 +476,18 @@ padding: 2px 0;}
   .userJoinForm___2TGE2 {
     margin: 40px;
   }
+  .appsLinks___367vX.control-mobile {
+    position: absolute;
+    top: 6px;
+    right: 110px;
+    display: block;
+  }
+  a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
+    width: 120px;
+  }
 }
 @media(max-width: 500px) {
+
   .signUpButton___3RUyy{
     margin-right: 0;
   }
@@ -526,6 +536,10 @@ padding: 2px 0;}
   .control___26dei.isHighlighted___2n3nd {
     font-size: 2rem;
   }
+  .appsLinks___367vX.control-mobile {
+    display: flex;
+    right: 40px
+  }
 }
 @media (max-width: 360px) {
   .spec-landing-navigation-sign-in, .w-150 {
@@ -537,9 +551,9 @@ padding: 2px 0;}
   }
 }
 @media (max-width: 320px) {
-  .control-mobile a {
+  ./*control-mobile a {
     display: none;
-  }
+  }*/
 }
 
 @media(max-width: 480px) {
