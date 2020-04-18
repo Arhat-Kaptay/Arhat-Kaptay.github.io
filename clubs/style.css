@@ -276,9 +276,18 @@
   .app___1zJo4 {
     height: 45px;
   }
+  .sampleCanvas___1rXmc {
+    margin-top: 0;
+  }
+  .sample___32zIb {
+    height: 40rem;
+  }
 }
 
 @media(max-width: 500px) {
+  .sample___32zIb {
+    height: 56rem;
+  }
   .appsLinks___367vX.control-mobile {
     top: 6px;
   }
