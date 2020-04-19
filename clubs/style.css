@@ -175,7 +175,7 @@
     margin-top: -20%;
   }
   .title-f {
-    display: block; 
+    /*display: block; */
     margin-top: 40px;
   }
   .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
@@ -283,8 +283,15 @@
     height: 40rem;
   }
 }
-
+@media (max-width: 740px) {
+  .landingTeaser___jNluX {
+    padding-top: 5rem;
+  }
+}
 @media(max-width: 500px) {
+  .landingTeaser___jNluX {
+    padding-top: 0;
+  }
   .sample___32zIb {
     height: 56rem;
   }
@@ -579,11 +586,11 @@ width: unset;
     width: 120px;
   }
   .title-f{
-    display: block;
+    /*display: block;*/
 	margin-top: 9%
   }
   .title-f-pc{
-    display: none;
+    /*display: none;*/
   }
   .apps___1HuOq {
       display: block;
@@ -734,7 +741,7 @@ padding: 2px 0;}
 
 
 .sample___32zIb {
-	height: 26rem;
+	height: 40rem;
 }
 
 
