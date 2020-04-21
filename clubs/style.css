@@ -371,6 +371,9 @@
     font-size: 12px;
     width: 100px;
   }
+  .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
+    bottom: -26px!important;
+  }
 }
 @media (max-width: 320px) {
   /*a.app___1zJo4.app___4YV-O.w-120.color-green.animated.infinite.bounce {
@@ -3475,6 +3478,13 @@ select {
   }
 }
 @media(max-width: 740px) {
+  .items___cYLlZ .slick-list {
+    height: 460px;
+  }
+  .pageSectionTitle___3BR-9.slid {
+    margin-top: -10rem;
+  }
+
   .scrollControl___1zcNs.rightDirection___3IEaY, .scrollControl___1w80s {
     display: none!important;
   }
@@ -3494,7 +3504,7 @@ select {
     right: 12px;
     bottom: -40px;
   }
-
+  
 
   .pageSection___DO-C-.homepageSection___KmXBl.isRevealed___39VSj {
     padding: 0;
@@ -3590,7 +3600,21 @@ select {
     margin: 10px auto;
   }
 }
+@media(max-width: 570px) {
+  .landingTeaser___jNluX {
+    padding-top: 6rem;
+  }
+}
 @media(max-width: 460px) {
+  .signUpButton___3RUyy {
+    margin-top: 0;
+  }
+  .pageSectionTitle___3BR-9, .pageSectionTitle___3BR-9.slid {
+    margin-top: 4rem;
+  }
+  .pageSectionTitle___3BR-9.magn {
+    margin-top: 6rem;
+  }
   .profileValueInnerBackground___39eHd {
     bottom: -12rem;
   }
@@ -3627,5 +3651,8 @@ select {
 @media(max-width: 350px) {
   .appsLinks___367vX.control-mobile {
     right: 40px;
+  }
+  .headerCaption___1mcEE {
+    margin-left: 1rem;
   }
 }
