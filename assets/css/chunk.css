@@ -5771,13 +5771,13 @@ button.button___EtYyg {
   width: 100%
 }
 
-@media (max-width:767px) {
+/*@media (max-width:767px) {
   .items___2pjmF, .items___2pjmF>div {
     display: flex;
     justify-content: center;
     align-items: center
   }
-}
+}*/
 
 @media (min-width:768px) {
   .items___2pjmF:after {
@@ -6762,7 +6762,7 @@ button.button___EtYyg {
     top: 14rem;
     width: 39rem;
     height: 68rem;
-	margin-top: -27%
+	margin-top: -10%
   }
 }
 
@@ -6843,7 +6843,7 @@ button.button___EtYyg {
 }
 @media(max-width: 500px) {
   .profileValueInnerBackground___39eHd {
-    bottom: 0rem;
+    bottom: -3rem;
   }
 }
 @media(max-width: 370px) {
