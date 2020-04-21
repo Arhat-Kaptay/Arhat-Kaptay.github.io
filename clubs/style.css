@@ -3388,7 +3388,7 @@ select {
   }
   .content___3vwxh {
     width: 90%;
-    height: 40rem;
+    height: 50rem;
     margin: 0;
     align-items:center;
   }
@@ -3471,13 +3471,25 @@ select {
   .pageSectionTitle___3BR-9.magn {
     margin-top: 16rem;
   }
+  .selfieCampaigns___1puM2 {
+    margin-top: -16rem;
+  }
 }
 @media(max-width: 768px) {
   .appsLinks___367vX {
     margin-right: 130px;
   }
+  .content___3vwxh {
+    height: 50rem;
+  }
+  .selfieCampaigns___1puM2 {
+    margin-top: 0;
+  }
 }
 @media(max-width: 740px) {
+  .content___3vwxh {
+    height: 40rem;
+  }
   .items___cYLlZ .slick-list {
     height: 460px;
   }
