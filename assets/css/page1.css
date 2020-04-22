@@ -589,6 +589,10 @@ padding: 2px 0;}
 /******************************************
 **new
 ******************************************/
+.mob_buttone {
+  display: none;
+}
+
 @media (max-width: 1024px) {
   .arrow-opacity-left, .scrollControl___2Hzf2.rightDirection___3pI4P {
     display: none!important;
@@ -636,7 +640,7 @@ padding: 2px 0;}
   }
   .content___3vwxh {
     width: 80%;
-    height: 40rem;
+    height: 26rem;
     margin: 0;
     margin-top: 40px;
     align-items:center;
@@ -702,6 +706,19 @@ padding: 2px 0;}
   .app___1zJo4:not(:first-child) {
     margin-left: 2rem;
   }
+  .mob_buttone {
+    display: block;
+  }
+  .comp_butone {
+    display: none;
+  }
+  .mob_buttone .description___X_eXQ {
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+  .mob_buttone {
+    margin-top: 30px;
+  } 
 }
 @media(max-width: 768px) {
   .appsLinks___367vX {
@@ -709,6 +726,10 @@ padding: 2px 0;}
   }
 }
 @media(max-width: 740px) {
+  .partnerBrandLogoImage___1wVyD {
+    width: 100%;
+  }
+
   .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
     right: 12px;
     bottom: -40px;
@@ -810,6 +831,9 @@ padding: 2px 0;}
   }
 }
 @media(max-width: 460px) {
+  .partnerBrandLogoImage___1wVyD {
+    width: auto;
+  }
   .profileValueInnerBackground___39eHd {
     bottom: -12rem;
   }
@@ -841,6 +865,9 @@ padding: 2px 0;}
   .sampleCanvas___1rXmc {
     width: 26rem;
     height: 40rem;
+  }
+  .content___3vwxh {
+    height: 20rem;
   }
 }
 @media(max-width: 350px) {
