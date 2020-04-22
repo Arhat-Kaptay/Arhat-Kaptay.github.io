@@ -3332,6 +3332,9 @@ select {
   width: 80%;
   text-align: center;
 }
+.mob_buttone {
+    display: none;;
+} 
 
 @media (max-width: 1024px) {
   .sample___32zIb {
@@ -3388,7 +3391,7 @@ select {
   }
   .content___3vwxh {
     width: 90%;
-    height: 50rem;
+    height: 20rem;
     margin: 0;
     align-items:center;
   }
@@ -3463,8 +3466,7 @@ select {
     margin: 10px 0;
   }
   .buttonsSet___3JySY {
-    margin-top: -5%!important;
-  }
+    margin-top: -5%!importan  }
   .sample___32zIb {
     margin-top: 20px;
   }
@@ -3474,21 +3476,42 @@ select {
   .selfieCampaigns___1puM2 {
     margin-top: -16rem;
   }
+  .mob_buttone {
+    display: block;
+  }
+  .comp_butone {
+    display: none;
+  }
+  .mob_buttone .description___X_eXQ {
+    margin: 0 auto;
+    padding-bottom: 50px;
+    max-width: 80%;
+  }
 }
 @media(max-width: 768px) {
   .appsLinks___367vX {
     margin-right: 130px;
   }
   .content___3vwxh {
-    height: 50rem;
+    height: 26rem;
   }
   .selfieCampaigns___1puM2 {
     margin-top: 0;
   }
+  .mob_buttone .description___X_eXQ {
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    max-width: 70%;
+  }
 }
 @media(max-width: 740px) {
   .content___3vwxh {
-    height: 40rem;
+    height: 10rem;
+    margin-top: 20px;
+  }
+  .mob_buttone .description___X_eXQ {
+    padding-bottom: 30px;
   }
   .items___cYLlZ .slick-list {
     height: 460px;
@@ -3611,6 +3634,12 @@ select {
   .appsLinks___367vX {
     margin: 10px auto;
   }
+  .partnerBrandLogoImage___1wVyD {
+    width: 100%!important;
+  }
+  .partnerBrandLogo___2uzue {
+    margin: 6rem 1rem!important;
+  }
 }
 @media(max-width: 570px) {
   .landingTeaser___jNluX {
@@ -3618,6 +3647,12 @@ select {
   }
 }
 @media(max-width: 460px) {
+  .partnerBrandLogoImage___1wVyD {
+    width: auto!important;
+  }
+  .content___iH5i0 .slick-list {
+    height: 440px;
+  }
   .signUpButton___3RUyy {
     margin-top: 0;
   }
@@ -3649,6 +3684,12 @@ select {
   }
   .feedbacks___1kXm0 {
     height: 32rem;
+  }
+  .mob_buttone .description___X_eXQ {
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    max-width: 80%;
   }
 }
 @media(max-width: 400px) {
