@@ -3647,8 +3647,25 @@ body {
   .landingTeaser___jNluX {
     padding-top: 6rem;
   }
+  .pageSectionTitle___3BR-9.magn {
+    margin-top: 10rem;
+    margin-bottom: 6rem;
+  }
+  .pageSectionTitle___3BR-9 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+  .samplesGridItem___23DZ6 {
+    width: calc(54% - 2.5rem);
+  }
 }
 @media(max-width: 460px) {
+  .samplesGridItem___23DZ6.spec-landing-get-on-board-sample-get-presentation {
+    width: 80%;
+  }
+  .partnerBrandsAnimatedLogosWrapper___Q4BEA {
+    margin-top: -2px;
+  }
   .partnerBrandLogoImage___1wVyD {
     width: auto!important;
   }
