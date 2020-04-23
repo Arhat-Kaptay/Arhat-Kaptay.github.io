@@ -598,9 +598,9 @@ padding: 2px 0;}
 .mob_buttone {
   display: none;
 }
-.partnerBrandLogoImage___1wVyD {
-  width: 100%!important;
-}
+ .slick-initialized .slick-slide {
+  width: auto;
+ }
 @media (max-width: 1024px) {
   .arrow-opacity-left, .scrollControl___2Hzf2.rightDirection___3pI4P {
     display: none!important;
@@ -618,6 +618,13 @@ padding: 2px 0;}
   .modal-video-close-btn {
     top:-35px;
     right: 0;
+  }
+  .partnerBrandLogoImage___1wVyD {
+    object-fit: contain;
+    margin: 0 auto;
+  }
+  .partnerBrandsAnimatedLogosWrapper___Q4BEA {
+    margin-top: -2px;
   }
 }
 
@@ -737,10 +744,6 @@ padding: 2px 0;}
   }
 }
 @media(max-width: 740px) {
-  .partnerBrandLogoImage___1wVyD {
-    width: 100%;
-  }
-
   .appHeader___2GdyR.isExpanded___qu6SJ .languageSwitcher___1pOWc {
     right: 12px;
     bottom: -40px;
@@ -848,9 +851,6 @@ padding: 2px 0;}
 @media(max-width: 460px) {
   .content___3vwxh {
     margin-top: 40px;
-  }
-  .partnerBrandLogoImage___1wVyD {
-    width: auto;
   }
   .profileValueInnerBackground___39eHd {
     bottom: -12rem;

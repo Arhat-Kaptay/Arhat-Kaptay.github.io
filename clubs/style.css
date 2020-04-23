@@ -3365,11 +3365,14 @@ body {
 .mob_buttone {
     display: none;;
 } 
-.partnerBrandLogoImage___1wVyD {
-  width: 100%!important;
-}
-
+.slick-initialized .slick-slide {
+  width: auto;
+ }
 @media (max-width: 1024px) {
+  .partnerBrandLogoImage___1wVyD {
+    object-fit: contain;
+    margin: 0 auto;
+  }
   .sample___32zIb {
     margin-top: 50px;
   }
@@ -3667,11 +3670,11 @@ body {
   .appsLinks___367vX {
     margin: 10px auto;
   }
-  .partnerBrandLogoImage___1wVyD {
-    width: 100%!important;
-  }
   .partnerBrandLogo___2uzue {
     margin: 6rem 1rem!important;
+  }
+  .content___Rhi-W {
+    height: 90%;
   }
 }
 @media(max-width: 570px) {
@@ -3691,14 +3694,14 @@ body {
   }
 }
 @media(max-width: 460px) {
+  .content___Rhi-W {
+    height: 94%;
+  }
   .samplesGridItem___23DZ6.spec-landing-get-on-board-sample-get-presentation {
     width: 80%;
   }
   .partnerBrandsAnimatedLogosWrapper___Q4BEA {
     margin-top: -2px;
-  }
-  .partnerBrandLogoImage___1wVyD {
-    width: auto!important;
   }
   .content___iH5i0 .slick-list {
     height: 440px;
@@ -3750,6 +3753,20 @@ body {
     width: 26rem;
     height: 40rem;
   }
+  .landingTeaser___jNluX {
+    padding-top: 0;
+  }
+}
+@media(max-width: 370px) {
+  .landingTeaser___jNluX {
+    padding-top: 2rem;
+  }
+  .teaserInner___2AyZ3 {
+    padding-bottom: 0;
+  }
+  .sample___32zIb {
+    margin-top: 0;
+  }
 }
 @media(max-width: 350px) {
   .appsLinks___367vX.control-mobile {
@@ -3757,5 +3774,11 @@ body {
   }
   .headerCaption___1mcEE {
     margin-left: 1rem;
+  }
+  .content___Rhi-W {
+    height: 86%;
+  }
+  .pageSectionTitle___3BR-9 {
+    margin-top: -4rem!important;
   }
 }
