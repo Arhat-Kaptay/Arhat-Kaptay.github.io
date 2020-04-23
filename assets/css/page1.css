@@ -409,6 +409,9 @@ padding: 2px 0;}
   .appsLinks___367vX {
     margin-right: 150px;
   }
+  .languageSwitcher___1pOWc {
+    bottom: 25px;
+  }
 }
 
 @media(max-width: 824px) {
@@ -491,6 +494,9 @@ padding: 2px 0;}
   .sample___32zIb {
     height: 40rem;
   }
+  .items___cYLlZ, .items___cYLlZ>div {
+    display: -webkit-box;
+  }
 }
 @media(max-width: 500px) {
   .appsLinks___367vX.control-mobile {
@@ -548,6 +554,9 @@ padding: 2px 0;}
     display: flex;
     right: 40px
   }
+  .content___Rhi-W {
+    height: 98%;
+  }
 }
 @media (max-width: 360px) {
   .spec-landing-navigation-sign-in, .w-150 {
@@ -592,7 +601,9 @@ padding: 2px 0;}
 .mob_buttone {
   display: none;
 }
-
+.partnerBrandLogoImage___1wVyD {
+  width: 100%!important;
+}
 @media (max-width: 1024px) {
   .arrow-opacity-left, .scrollControl___2Hzf2.rightDirection___3pI4P {
     display: none!important;
@@ -724,6 +735,9 @@ padding: 2px 0;}
   .appsLinks___367vX {
     margin-right: 130px;
   }
+  .almejaApp___1AHCL {
+    margin-bottom: 0;
+  }
 }
 @media(max-width: 740px) {
   .partnerBrandLogoImage___1wVyD {
@@ -829,8 +843,15 @@ padding: 2px 0;}
   .appsLinks___367vX {
     margin: 10px auto;
   }
+
+  .content___3vwxh {
+    margin-top: -20px;
+  }
 }
 @media(max-width: 460px) {
+  .content___3vwxh {
+    margin-top: 40px;
+  }
   .partnerBrandLogoImage___1wVyD {
     width: auto;
   }
@@ -869,8 +890,20 @@ padding: 2px 0;}
   .content___3vwxh {
     height: 20rem;
   }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP {
+    margin-top: 20px;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    padding-top: 10px;
+  }
 }
 @media(max-width: 350px) {
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP {
+    margin-top: 20px;
+  }
+  .pageSectionTitle___1zjWB.homepageSectionTitle___33DaP.padd {
+    padding-top: 0;
+  }
   .appsLinks___367vX.control-mobile {
     right: 40px;
   }
