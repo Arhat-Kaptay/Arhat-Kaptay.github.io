@@ -3797,6 +3797,17 @@ body {
     padding-top: 0;
   }
 }
+@media (max-width: 375px) {
+  .selfieCampaigns___1puM2.mxx {
+    margin-top: 0!important;
+  }
+  .content___3vwxh {
+    height: 20rem;
+  }
+  .title___3ftGr, .title___1ixq6 {
+    font-size: 5rem;
+  }
+}
 @media(max-width: 370px) {
   .landingTeaser___jNluX {
     padding-top: 2rem;
@@ -3807,8 +3818,19 @@ body {
   .sample___32zIb {
     margin-top: 0;
   }
+  .selfieCampaigns___1puM2.mxx {
+    margin-top: -6rem!important;
+  }
+  
+  .title___3ftGr, .title___1ixq6 {
+    font-size: 4rem;
+  }
+  .content___3vwxh {
+    height: 10rem;
+  }
 }
 @media(max-width: 350px) {
+  
   .appsLinks___367vX.control-mobile {
     right: 40px;
   }
@@ -3820,5 +3842,14 @@ body {
   }
   .pageSectionTitle___3BR-9.slid {
     margin-top: -4rem!important;
+  }
+  .title___3ftGr, .title___1ixq6 {
+    font-size: 3rem;
+  }
+  .content___3vwxh {
+    height: 5rem;
+  }
+  .mob_buttone .description___X_eXQ {
+    padding: 0;
   }
 }
