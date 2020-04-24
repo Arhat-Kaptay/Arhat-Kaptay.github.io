@@ -3797,7 +3797,15 @@ body {
     padding-top: 0;
   }
 }
+@media(max-width: 375px) {
+  .selfieCampaigns___1puM2 {
+    margin-top: 10rem!important;
+  }
+}
 @media(max-width: 370px) {
+  .selfieCampaigns___1puM2 {
+    margin-top: -6rem!important;
+  }
   .landingTeaser___jNluX {
     padding-top: 2rem;
   }
