@@ -3725,6 +3725,9 @@ body {
   }
 }
 @media(max-width: 460px) {
+  .caption___Ok8W0 {
+    margin-bottom: 8rem;
+  }
   .screentop {
     margin-top: -10%;
   }
