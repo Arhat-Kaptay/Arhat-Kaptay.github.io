@@ -3373,14 +3373,14 @@ body {
   width: auto;
  }
 
-.pageSection___yvJAt.isRevealed___22RRK {
+.pageSection___yvJAt.isRevealed___22RRK.ujjj {
   z-index: 1000;
   background: #262626;
   top: -80px;
 }
 
 @media(max-width: 1200px) {
-  .pageSection___yvJAt.isRevealed___22RRK {
+  .pageSection___yvJAt.isRevealed___22RRK.ujjj {
     top:0;
     z-index: 0;
   }
@@ -3550,6 +3550,9 @@ body {
     padding-bottom: 50px;
     max-width: 80%;
   }
+  .partnerBrandsAnimatedLogosWrapper___Q4BEA {
+    margin-top: -2px;
+  }
 }
 @media(max-width: 768px) {
   .appsLinks___367vX {
@@ -3567,6 +3570,7 @@ body {
     padding-top: 20px;
     max-width: 70%;
   }
+
 }
 @media(max-width: 740px) {
   .content___3vwxh {
@@ -3724,7 +3728,7 @@ body {
   .screentop {
     margin-top: -10%;
   }
-  .pageSection___yvJAt.isRevealed___22RRK {
+  .pageSection___yvJAt.isRevealed___22RRK.ujjj {
     z-index: 1;
   }
   .content___Rhi-W {
